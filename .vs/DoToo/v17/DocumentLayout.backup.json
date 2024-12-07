@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data B2B\\Coding\\DoToo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|d:\\data b2b\\coding\\dotoo\\dotoo\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|solutionrelative:dotoo\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|d:\\data b2b\\coding\\dotoo\\dotoo\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|solutionrelative:dotoo\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|d:\\data b2b\\coding\\dotoo\\dotoo\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|solutionrelative:dotoo\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|d:\\data b2b\\coding\\dotoo\\dotoo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|solutionrelative:dotoo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|d:\\data b2b\\coding\\dotoo\\dotoo\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|solutionrelative:dotoo\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|d:\\data b2b\\coding\\dotoo\\dotoo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|solutionrelative:dotoo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|d:\\data b2b\\coding\\dotoo\\dotoo\\viewmodels\\itemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|solutionrelative:dotoo\\viewmodels\\itemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|d:\\data b2b\\coding\\dotoo\\dotoo\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|solutionrelative:dotoo\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|d:\\data b2b\\coding\\dotoo\\dotoo\\viewmodels\\todoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|solutionrelative:dotoo\\viewmodels\\todoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|d:\\data b2b\\coding\\dotoo\\dotoo\\repositories\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|solutionrelative:dotoo\\repositories\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|d:\\data b2b\\coding\\dotoo\\dotoo\\repositories\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A3C7F2-62BD-4FA0-ABD5-0272033891E9}|DoToo\\DoToo.csproj|solutionrelative:dotoo\\repositories\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DoToo\\App.xaml.cs",
+              "ToolTip": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\App.xaml.cs",
+              "RelativeToolTip": "DoToo\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:37:48.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "DoToo\\MauiProgram.cs",
+              "ToolTip": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\MauiProgram.cs",
+              "RelativeToolTip": "DoToo\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:44:24.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "DoToo\\Views\\MainView.xaml.cs",
+              "ToolTip": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "DoToo\\Views\\MainView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:46:41.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "DoToo\\Views\\MainView.xaml",
+              "ToolTip": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\Views\\MainView.xaml",
+              "RelativeToolTip": "DoToo\\Views\\MainView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T06:46:17.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemViewModel.cs",
+              "DocumentMoniker": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\ViewModels\\ItemViewModel.cs",
+              "RelativeDocumentMoniker": "DoToo\\ViewModels\\ItemViewModel.cs",
+              "ToolTip": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\ViewModels\\ItemViewModel.cs",
+              "RelativeToolTip": "DoToo\\ViewModels\\ItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:38:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoItemViewModel.cs",
+              "DocumentMoniker": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\ViewModels\\TodoItemViewModel.cs",
+              "RelativeDocumentMoniker": "DoToo\\ViewModels\\TodoItemViewModel.cs",
+              "ToolTip": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\ViewModels\\TodoItemViewModel.cs",
+              "RelativeToolTip": "DoToo\\ViewModels\\TodoItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:29:49.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "DoToo\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "DoToo\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:16:21.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\ViewModels\\ViewModel.cs",
+              "RelativeDocumentMoniker": "DoToo\\ViewModels\\ViewModel.cs",
+              "ToolTip": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\ViewModels\\ViewModel.cs",
+              "RelativeToolTip": "DoToo\\ViewModels\\ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:03:57.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoItemRepository.cs",
+              "DocumentMoniker": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\Repositories\\TodoItemRepository.cs",
+              "RelativeDocumentMoniker": "DoToo\\Repositories\\TodoItemRepository.cs",
+              "ToolTip": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\Repositories\\TodoItemRepository.cs",
+              "RelativeToolTip": "DoToo\\Repositories\\TodoItemRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:00:58.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "DoToo\\Models\\TodoItem.cs",
+              "ToolTip": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\Models\\TodoItem.cs",
+              "RelativeToolTip": "DoToo\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:53:25.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITodoItemRepository.cs",
+              "DocumentMoniker": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\Repositories\\ITodoItemRepository.cs",
+              "RelativeDocumentMoniker": "DoToo\\Repositories\\ITodoItemRepository.cs",
+              "ToolTip": "D:\\Data B2B\\Coding\\DoToo\\DoToo\\Repositories\\ITodoItemRepository.cs",
+              "RelativeToolTip": "DoToo\\Repositories\\ITodoItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:56:49.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
